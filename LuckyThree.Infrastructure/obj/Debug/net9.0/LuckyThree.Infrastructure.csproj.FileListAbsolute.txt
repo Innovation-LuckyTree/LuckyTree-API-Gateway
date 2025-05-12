@@ -1,0 +1,15 @@
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\bin\Debug\net9.0\LuckyThree.Infrastructure.deps.json
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\bin\Debug\net9.0\LuckyThree.Infrastructure.dll
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\bin\Debug\net9.0\LuckyThree.Infrastructure.pdb
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\bin\Debug\net9.0\LuckyThree.Common.dll
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\bin\Debug\net9.0\LuckyThree.Common.pdb
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\LuckyThree.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\LuckyThree.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\LuckyThree.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\LuckyThree.Infrastructure.AssemblyInfo.cs
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\LuckyThree.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\LuckyThr.18649E29.Up2Date
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\LuckyThree.Infrastructure.dll
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\refint\LuckyThree.Infrastructure.dll
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\LuckyThree.Infrastructure.pdb
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Infrastructure\obj\Debug\net9.0\ref\LuckyThree.Infrastructure.dll

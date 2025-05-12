@@ -1,0 +1,11 @@
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\bin\Debug\net9.0\LuckyThree.Common.deps.json
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\bin\Debug\net9.0\LuckyThree.Common.dll
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\bin\Debug\net9.0\LuckyThree.Common.pdb
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\obj\Debug\net9.0\LuckyThree.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\obj\Debug\net9.0\LuckyThree.Common.AssemblyInfoInputs.cache
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\obj\Debug\net9.0\LuckyThree.Common.AssemblyInfo.cs
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\obj\Debug\net9.0\LuckyThree.Common.csproj.CoreCompileInputs.cache
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\obj\Debug\net9.0\LuckyThree.Common.dll
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\obj\Debug\net9.0\refint\LuckyThree.Common.dll
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\obj\Debug\net9.0\LuckyThree.Common.pdb
+C:\Users\jovan\Documents\Sandbox\LuckyThree.API-Gateway\LuckyThree.Common\obj\Debug\net9.0\ref\LuckyThree.Common.dll

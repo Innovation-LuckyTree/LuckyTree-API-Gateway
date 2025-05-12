@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oC8KXpekAkTqZCyKN5/rAPuegJGjv7+hne5EK5AZR/A=",
+  "Source": "LuckyThree.API",
+  "BasePath": "_content/LuckyThree.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

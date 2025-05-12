@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LuckyThree.Infrastructure/1.0.0": {
+        "dependencies": {
+          "LuckyThree.Common": "1.0.0"
+        },
+        "runtime": {
+          "LuckyThree.Infrastructure.dll": {}
+        }
+      },
+      "LuckyThree.Common/1.0.0": {
+        "runtime": {
+          "LuckyThree.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LuckyThree.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LuckyThree.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
