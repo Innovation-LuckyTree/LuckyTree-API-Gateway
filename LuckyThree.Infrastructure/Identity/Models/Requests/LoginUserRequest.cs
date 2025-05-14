@@ -1,4 +1,4 @@
-namespace HappyPlay.Infrastructure.Identity.Models.Requests;
+namespace LuckyThree.Infrastructure.Identity.Models.Requests;
 
 public class LoginUserRequest
 {
