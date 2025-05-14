@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LuckyThree.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+312aad7c35badd383a7e20b8b834669a3735e57e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LuckyThree.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LuckyThree.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
